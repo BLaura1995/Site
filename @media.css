@@ -1,0 +1,19 @@
+@media screen and (max-width: 600px) {
+    body {
+        background-color: olive;
+        color: white;
+    }
+    .container {
+        display: block;
+        width: 100%;
+    }
+    .container img {
+        width: 100%;
+        margin: 0 auto;
+        /* text-align: center; */
+    }
+    .intro {
+        margin-top: 20px;
+        text-align: center;
+    }
+}
